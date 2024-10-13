@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u0442\u0435\u043E\u0440\u0456\u044F \u0440\u0438\u0437\u0438\u043A\u0456\u0432\\mtr-lab\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7136AD-B416-4D26-BE6F-BE8F5DAFA88A}|lab3\\lab3.csproj|c:\\users\\hp\\desktop\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u0442\u0435\u043E\u0440\u0456\u044F \u0440\u0438\u0437\u0438\u043A\u0456\u0432\\mtr-lab\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7136AD-B416-4D26-BE6F-BE8F5DAFA88A}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u0442\u0435\u043E\u0440\u0456\u044F \u0440\u0438\u0437\u0438\u043A\u0456\u0432\\mtr-lab\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u0442\u0435\u043E\u0440\u0456\u044F \u0440\u0438\u0437\u0438\u043A\u0456\u0432\\mtr-lab\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:28:01.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
