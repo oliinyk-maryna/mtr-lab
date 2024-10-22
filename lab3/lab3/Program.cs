@@ -30,7 +30,6 @@ class Program
 
         string preferredJob = expectedUtility1 > utilitySalary2 ? "Option 1 (Uncertain job)" : "Option 2 (Deterministic job)";
 
-        // Виведення результатів
         Console.WriteLine($"Expected utility of Option 1: {expectedUtility1}");
         Console.WriteLine($"Utility of Option 2: {utilitySalary2}");
         Console.WriteLine($"Deterministic equivalent: {deterministicEquivalent}");
