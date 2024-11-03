@@ -14,7 +14,7 @@ V = np.array([2, 1])
 expected_profits = np.dot(F, P)
 variances = np.var(F, axis=1)
 weighted_decision_scores = -V[0] * expected_profits + V[1] * variances
-best_decision_index = np.argmin(weighted_decision_scores)
+best_decision_index = list(weighted_decision_scores).index( min(weighted_decision_scores))
 
 print("Expected Profits:", np.round(expected_profits, 2))
 print("Variances:", np.round(variances, 2))
